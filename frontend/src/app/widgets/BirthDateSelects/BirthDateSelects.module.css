@@ -1,0 +1,13 @@
+.selectGroup {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	gap: 10px;
+}
+
+.label {
+	font-size: 11px;
+	text-transform: uppercase;
+	color: #b5bac1;
+	font-weight: 600;
+}

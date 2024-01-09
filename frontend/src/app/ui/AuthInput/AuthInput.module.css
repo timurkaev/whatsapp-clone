@@ -1,0 +1,20 @@
+.input {
+	height: 40px;
+	background-color: #1e1f22;
+	border: none;
+	outline: none;
+	width: 100%;
+	border-radius: 5px;
+	margin-top: 5px;
+	color: #b5bac1;
+	padding: 0 10px 0 10px;
+	font-size: 16px;
+	margin-bottom: 15px;
+}
+
+.inputLabel {
+	font-size: 11px;
+	text-transform: uppercase;
+	color: #b5bac1;
+	font-weight: 600;
+}

@@ -1,0 +1,24 @@
+.forgotPassword {
+	font-size: 13px;
+	margin-top: 5px;
+}
+
+.register {
+	font-size: 13px;
+	margin-top: 10px;
+	color: #858c94;
+}
+
+.modalTitle {
+	font-size: 22px;
+	text-align: center;
+	color: #edeef0;
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+
+.modalSubTitle {
+	text-align: center;
+	color: #b5bac1;
+	margin-bottom: 20px;
+}

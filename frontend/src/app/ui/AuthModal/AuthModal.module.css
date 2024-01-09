@@ -1,0 +1,6 @@
+.authModal {
+	background-color: var(--primary-color);
+	width: 480px;
+	border-radius: 5px;
+	padding: 30px
+}
